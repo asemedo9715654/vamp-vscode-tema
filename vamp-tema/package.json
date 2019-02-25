@@ -1,0 +1,21 @@
+{
+    "name": "vamp-tema",
+    "displayName": "vamp-tema",
+    "description": "Tema feito por angelo semedo - 25/02/2019",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vamp-tema",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vamp-tema-color-theme.json"
+            }
+        ]
+    }
+}
